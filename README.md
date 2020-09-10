@@ -1,4 +1,4 @@
-![BOSCH Logo](logo.png)
+![BOSCH Logo](logo.png){:height="50%" width="50%"}
 # ESTÁGIO EM TI - DESENVOLVIMENTO WEB (13031)
 [![SmartRecruiters](https://img.shields.io/badge/Powered%20By-SmartRecruiters-brightgreen.svg)](https://smrtr.io/4mbxR)  
 Av Robert Bosch, Campinas, SP, Brasil - Intern
