@@ -20,9 +20,10 @@ A ideia é você implementar uma aplicação simples que consuma uma API que tam
 Os detalhes de implementação necessários estão dentro de cada pasta do respectivo desafio (frontend/ e backend/), dentro destas pastas utilize o arquivo README.md como guia de requisitos mínimos da aplicação. 
 
 Os conhecimentos que você precisa atender (ou aprender agora), para ter sucesso no teste estão detalhados abaixo:
-- HTML/CSS/Javascript ou algum framework de desenvolvimento web (Angular, React, Vue);
+- HTML/CSS/Javascript ou algum framework de desenvolvimento web a sua escolha (Angular, React, Vue);
+- Java, Python ou qualquer outra linguagem e algum framework de desenvolvimento de APIs REST (Flask, Spring);
+- Bancos de dados (H2, SQLite, MySQL, Postgres);
 - Git;
-- Java ou Python e algum framework de desenvolvimento de APIs REST (Flask, Spring);
 
 ## Submissão
 **Você têm 5 dias após a data da sua entrevista para realizar a entrega dos testes (serão aceitas respostas até às 23:59:59 UTC-3).**   
