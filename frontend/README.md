@@ -12,7 +12,7 @@ Dentro do arquivo `index.html` você encontra um esqueleto da aplicação com al
 Os requisitos necessários para finalizar o teste os seguintes:
 - Criar uma nova tarefa;
 - Apagar uma tarefa existente;
-- Finalizar a tarefa (a descrição da mesma deve ficar tachada/rasurada. e.g.: ~~e aí meu chapa? ( ͡° ͜ʖ ͡°)~~;
+- Finalizar a tarefa (a descrição da mesma deve ficar tachada/rasurada. e.g.: ~~e aí meu chapa? ( ͡° ͜ʖ ͡°)~~);
 - Limpar o quadro de tarefas;
 
 ## Bônus (opcional) :star2:
