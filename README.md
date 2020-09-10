@@ -25,7 +25,7 @@ Os conhecimentos que você precisa atender (ou aprender agora), para ter sucesso
 - Java ou Python e algum framework de desenvolvimento de APIs REST (Flask, Spring);
 
 ## Submissão
-Você têm 5 dias (até 23:59:59 UTC-3) após a data da sua entrevista para realizar a entrega dos testes.  
+Você têm 5 dias após a data da sua entrevista para realizar a entrega dos testes (serão aceitas respostas até às 23:59:59 UTC-3 do quinto e último dia).  
 Caso tenha dúvidas ou problemas, envie um e-mail para `nathan.ribeiro@br.bosch.com` que assim que possível iremos retornar com ajuda necessária.  
 
 Faça um `Fork` desse repositório, crie uma `branch` com seu nome completo, complete os desafios e peça um `Pull Request` da sua `branch`.  
