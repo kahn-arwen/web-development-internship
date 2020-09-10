@@ -1,4 +1,4 @@
-![BOSCH Logo](logo.jpeg)
+![BOSCH Logo](logo.png)
 # ESTÁGIO EM TI - DESENVOLVIMENTO WEB (13031)
 Av Robert Bosch, Campinas, SP, Brasil - Intern
 
