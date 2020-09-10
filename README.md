@@ -19,7 +19,7 @@ Seja em áreas de mobilidade, bens de consumo, tecnologia industrial, energia e 
 * Noções básicas de Engenharia de Software (Padrões de Projeto, Arquitetura de Sistemas, UML).
 
 # Additional information
-** Prazo de candidatura: 15/09/2020 **
+**Prazo de candidatura: 15/09/2020**  
 Benefícios: assistência médica e odontológica, restaurante na planta, transporte, auxílio material escolar, cesta de natal, seguro de vida e bolsa auxílio.
 Vaga elegível para pessoa com deficiência ou reabilitada.
 
