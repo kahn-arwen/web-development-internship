@@ -34,4 +34,4 @@ Nossa análise vai além do resultado final então se você tiver um problema im
 - Tratamento de erros
 
 Caso tenha dúvidas, envie um e-mail para `nathan.ribeiro@br.bosch.com`.
-## Boa sorte! :punch:
+# Boa sorte! :punch:
