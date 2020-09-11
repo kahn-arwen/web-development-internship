@@ -17,11 +17,11 @@ Nós estamos sempre em busca de profissionais engajados e interessados, com boa 
 Esse teste é para vaga de estagiário para área de desenvolvimento web e as suas habilidades serão exploradas em contextos de desenvolvimento Frontend e Backend.
 
 A ideia é você implementar uma aplicação simples que consuma uma API que também será desenvolvida por você.
-Os detalhes de implementação necessários estão dentro de cada pasta do respectivo desafio ([frontend/](frontend) e [backend/](backend)), dentro destas pastas utilize o arquivo README.md como guia de requisitos mínimos da aplicação. 
+Os detalhes de implementação necessários estão dentro de cada pasta do respectivo desafio ([frontend/](frontend) e [backend/](backend)), dentro destas pastas utilize o arquivo `README.md` como guia de requisitos mínimos da aplicação. 
 
 Os conhecimentos que você precisa atender (ou aprender agora), para ter sucesso no teste estão detalhados abaixo:
 - HTML/CSS/Javascript ou algum framework de desenvolvimento web a sua escolha (Angular, React, Vue);
-- Java, Python ou qualquer outra linguagem e algum framework de desenvolvimento de APIs REST (Flask, Spring);
+- Java, Python, Javascript ou qualquer outra linguagem e algum framework de desenvolvimento de APIs REST (Flask, Spring, Express);
 - Bancos de dados (H2, SQLite, MySQL, Postgres);
 - Git;
 
