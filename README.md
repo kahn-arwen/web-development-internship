@@ -26,7 +26,7 @@ Os conhecimentos que você precisa atender (ou aprender agora), para ter sucesso
 - Git;
 
 ## Submissão
-**Você têm 5 dias após a data da sua entrevista para realizar a entrega dos testes (serão aceitas respostas até às 23:59:59 UTC-3).**   
+**Você têm 5 dias após a data do envio deste e-mail para realizar a entrega dos testes (serão aceitas respostas até às 23:59:59 UTC-3).**   
 Caso tenha dúvidas ou problemas, envie um e-mail para `gilson.kopper@br.bosch.com` que assim que possível iremos retornar com ajuda necessária.  
 
 Faça um `Fork` desse repositório, crie uma `branch` com seu nome completo, complete os desafios e peça um `Pull Request` da sua `branch`.  
