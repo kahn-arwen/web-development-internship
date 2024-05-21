@@ -1,32 +1,24 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
-
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <title>To-Do List</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <title>To-Do List</title>
 </head>
-
 <body>
     <div class="main">
         <h1>My To-Do List</h1>
-        <form class="" action="index.html" method="post">
-            <input type="text" placeholder="new task" name="task">
-            <button type="submit"><strong>ADD</strong></button>
-        </form>
+            <form id="task-form">
+                <input type="text" id="new-task" placeholder="New task">
+                <button type="submit"><strong>ADD</strong></button>
+            </form>
         <div class="tasksBoard">
-            <ul>
-                <li><span class="delete">×</span><input type="checkbox"><label>Vanilla JavaScript</label></li>
-                <li><span class="delete">×</span><input type="checkbox"><label>Angular</label></li>
-                <li><span class="delete">×</span><input type="checkbox"><label>React</label></li>
-                <li><span class="delete">×</span><input type="checkbox"><label>Vue</label></li>
-            </ul>
+            <ul id="task-list"></ul>
             <a id="clear">Clear</a>
         </div>
     </div>
-    <script type="text/javascript" src="app.js"></script>
+    <script src="app.js"></script>
 </body>
-
 </html>
